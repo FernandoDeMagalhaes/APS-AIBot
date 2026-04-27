@@ -6,4 +6,4 @@ Curso - Ciencia da Computação, Quinto Período
 Alunos:
 
 
-Fernando de Magalhães Toledo e Davi
+Fernando de Magalhães Toledo e Davi Sousa Silva
